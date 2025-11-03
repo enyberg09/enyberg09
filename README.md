@@ -6,6 +6,7 @@
 Adaptability • Creative Thinking • Problem Solving • Communication • Client-Focused Mindset • Attention to Detail • Resilience • Growth-Oriented
 
 🏆 Recent Accomplishment
+
 Completed TripleTen’s Software Engineering program, developing full-stack projects that demonstrated proficiency in JavaScript, React, Node.js, and REST APIs. Delivered responsive, maintainable applications while solving practical coding challenges.
 
 🔎 What Drives Me  
