@@ -1,6 +1,6 @@
 👋 Hi there, I’m Elissa!  
 
-🚀 Aspiring Full-Stack Software Engineer | Creative Problem-Solver | Lifelong Learner
+🚀 Full-Stack Software Engineer | Creative Problem-Solver | Lifelong Learner
 
 💪 Strengths  
 Adaptability • Creative Thinking • Problem Solving • Communication • Client-Focused Mindset • Attention to Detail • Resilience • Growth-Oriented
